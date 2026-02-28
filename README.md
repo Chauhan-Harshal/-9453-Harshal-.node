@@ -1,1 +1,1 @@
-Mock pratical test
+// Mock pratical test
